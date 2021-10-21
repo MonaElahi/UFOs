@@ -4,8 +4,9 @@
 
 
 
-# Overview of Project: 
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+# Overview of Project
+
+In this project a table has been created with to organize UFO sightings data that is stored as a JavaScript array. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
 
 # Explain the purpose of this analysis.
 
