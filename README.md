@@ -8,14 +8,17 @@
 
 In this project a table has been created with to organize UFO sightings data that is stored as a JavaScript array. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
 
-# Purpose of this analysis.
+# Purpose 
 
 The purpose of project is to modify already created webpage and dynamic table so it can provide 
 users more in-depth analysis of UFO sightings by adding more filters like city, state, country and shape. 
 
 
 
-# Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+# Results:
+
+UFO sightings are there for a long time and are around the globe. With help of given filters for 
+date, city, state, country and shape one can easily search it just by typing. 
 
 
 # Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
