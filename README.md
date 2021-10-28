@@ -26,7 +26,20 @@ date, city, state, country and shape one can easily search it just by typing.
 
 # Summary
 
-## Drawback
+In this project several filteration options have been created however the filteration table is 
+not user friendly. There are several drawbacks and many recommendations for the improvement in the table.
+
+### Drawback
+
+* The user would have to exactly know what they were looking for in order to display required results from the filter system.
 
 ## Recommendations
+
+### Two possible additions to the site might be:
+
+1. There should be a dropdown menu for each filter so its easy to do the 
+   selection just by a click which would only display available data. 
+
+2. One more column "count" should be added which displays total number of UFO sightings.
+
 
